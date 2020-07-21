@@ -3,16 +3,16 @@
 </h1>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="instarocket" src="https://github.com/cleberbonifacio/instarocket/blob/master/screens/insta01.PNG" width="100%">
+  <img alt="instarocket" src="https://github.com/cleberbonifacio/instarocket/blob/master/assets/insta01.PNG" width="100%">
 </p>
 <p align="center">
-  <img alt="instarocket" src="https://github.com/cleberbonifacio/instarocket/blob/master/screens/insta02.PNG" width="100%">
+  <img alt="instarocket" src="https://github.com/cleberbonifacio/instarocket/blob/master/assets/insta02.PNG" width="100%">
 </p>
 
 
